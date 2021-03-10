@@ -1,1 +1,2 @@
 # GitKertausRepo
+Jimmy Nurminen
